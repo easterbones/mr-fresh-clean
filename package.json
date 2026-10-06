@@ -1,0 +1,16 @@
+{
+  "name": "based-ds",
+  "version": "1.0.0",
+  "description": "bzzz",
+  "type": "module",
+  "main": "based.js",
+  "scripts": {
+    "start": "node based.js",
+    "dev": "nodemon based.js"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
